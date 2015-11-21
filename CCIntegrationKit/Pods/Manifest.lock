@@ -1,0 +1,10 @@
+PODS:
+  - OpenSSL (1.0.204.1)
+
+DEPENDENCIES:
+  - OpenSSL
+
+SPEC CHECKSUMS:
+  OpenSSL: 7f853fcada78e5162c2183b4d90ebbd0aa02f5ac
+
+COCOAPODS: 0.38.2
