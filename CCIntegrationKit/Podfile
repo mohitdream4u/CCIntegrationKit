@@ -1,0 +1,13 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, ‘7.1’
+
+target 'CCIntegrationKit' do
+
+pod 'OpenSSL'
+
+end
+
+target 'CCIntegrationKitTests' do
+
+end
+
